@@ -43,6 +43,32 @@ const Experience = () => {
         "Participated in agile development processes"
       ],
       technologies: ["Java", "Spring Boot", "PostgreSQL", "JUnit", "Git", "Jenkins"]
+    },
+    {
+      company: "mandli technologies private limited",
+      position: "Associate Software Engineer",
+      duration: "Oct 2019 - sep 2020",
+      description: "Started career in backend development, working on various startup projects.",
+      achievements: [
+        "Developed user authentication and authorization system",
+        "Created REST APIs for mobile and web applications",
+        "Implemented automated testing with 90% code coverage",
+        "Participated in agile development processes"
+      ],
+      technologies: ["Java", "Spring Boot", "PostgreSQL", "JUnit", "Git", "Jenkins"]
+    },
+    {
+      company: "Invensis Technologies",
+      position: "Process Excutive",
+      duration: "May 2018 - Jun 2019",
+      description: "Started career in backend development, working on various startup projects.",
+      achievements: [
+        "Developed user authentication and authorization system",
+        "Created REST APIs for mobile and web applications",
+        "Implemented automated testing with 90% code coverage",
+        "Participated in agile development processes"
+      ],
+      technologies: ["Java", "Spring Boot", "PostgreSQL", "JUnit", "Git", "Jenkins"]
     }
   ]
 

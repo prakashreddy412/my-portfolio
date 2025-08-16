@@ -63,7 +63,7 @@ const Hero = () => {
               <FaLinkedin size={24} />
             </a>
             <a
-              href="https://github.com/chukkaprakash"
+              href="https://github.com/prakashreddy412"
               target="_blank"
               rel="noopener noreferrer"
               className="text-secondary-600 hover:text-primary-600 transition-colors duration-200"

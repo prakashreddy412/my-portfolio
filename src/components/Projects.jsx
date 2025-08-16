@@ -17,7 +17,7 @@ const Projects = () => {
         "Report generation",
         "File upload and management"
       ],
-      github: "https://github.com/chukkaprakash/school-management",
+      github: "https://github.com/prakashreddy412/school-management",
       live: "https://school-management-demo.com",
       category: "Full Stack"
     },
@@ -32,7 +32,7 @@ const Projects = () => {
         "Push notifications",
         "Service provider matching"
       ],
-      github: "https://github.com/chukkaprakash/home-schedulers",
+      github: "https://github.com/prakashreddy412/home-schedulers",
       live: "https://home-schedulers-app.com",
       category: "Mobile & Backend"
     },
@@ -47,7 +47,7 @@ const Projects = () => {
         "Real-time data processing",
         "Custom dashboard creation"
       ],
-      github: "https://github.com/chukkaprakash/staples-dashboard",
+      github: "https://github.com/prakashreddy412/staples-dashboard",
       live: "https://staples-dashboard.com",
       category: "Data Analytics"
     },
@@ -62,7 +62,7 @@ const Projects = () => {
         "Distributed tracing",
         "Cloud deployment ready"
       ],
-      github: "https://github.com/chukkaprakash/library-management",
+      github: "https://github.com/prakashreddy412/library-management",
       live: "https://library-management-demo.com",
       category: "Microservices"
     }
