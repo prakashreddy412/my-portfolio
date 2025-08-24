@@ -30,7 +30,6 @@ const Skills = () => {
       skills: [
         { name: "AWS", level: 85 },
         { name: "Azure", level: 80 },
-        { name: "Google Cloud", level: 75 },
         { name: "Docker", level: 90 },
         { name: "Kubernetes", level: 80 }
       ]
@@ -50,7 +49,6 @@ const Skills = () => {
       icon: <FaGithub className="text-2xl text-primary-600" />,
       skills: [
         { name: "Git", level: 90 },
-        { name: "Jenkins", level: 85 },
         { name: "Maven", level: 90 },
         { name: "Gradle", level: 80 },
         { name: "JUnit", level: 85 }
