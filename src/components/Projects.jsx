@@ -37,20 +37,22 @@ const Projects = () => {
       category: "Mobile & Backend"
     },
     {
-      title: "Staples Analysis Dashboard",
-      description: "A business intelligence dashboard for analyzing sales data and market trends. Provides interactive visualizations and automated reporting capabilities.",
-      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      technologies: ["Tableau", "Java Backend APIs", "PostgreSQL", "Python", "AWS"],
+      title: "Stripe Payment Integration",
+      description: "A secure payment integration built with Spring Boot and Stripe API. Supports checkout flow, PaymentIntents, webhooks, and error handling for seamless transactions.",
+      image: "https://images.unsplash.com/photo-1625231334165-1a1dc0e1f508?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80", // You can replace with your custom Stripe flow image
+      technologies: ["Spring Boot", "Java", "Stripe API", "PostgreSQL", "React"],
       features: [
-        "Interactive data visualizations",
-        "Automated report generation",
-        "Real-time data processing",
-        "Custom dashboard creation"
+        "Secure payment processing with Stripe",
+        "PaymentIntent creation and confirmation",
+        "Webhook handling for real-time updates",
+        "Test & Live mode environment support",
+        "Error handling and logging"
       ],
-      github: "https://github.com/prakashreddy412/staples-dashboard",
-      live: "https://staples-dashboard.com",
-      category: "Data Analytics"
-    },
+      github: "https://github.com/prakashreddy412/stripe-springboot-integration", // Replace with your repo
+      live: "https://your-deployed-link.com", // Add if you deploy frontend
+      category: "Backend Integration"
+    }
+  ,
     {
       title: "Library Management System",
       description: "A microservices-based library management system with distributed architecture. Handles book cataloging, member management, and lending operations.",
